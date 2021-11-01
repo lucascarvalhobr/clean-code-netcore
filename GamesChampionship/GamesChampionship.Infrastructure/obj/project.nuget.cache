@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KrGyKs1igo2HOPE5pODiWRksmEukkVUcM1I7F1e1PELF9EiOOV8mhEjQ5NSmkm058t2LZMzbe5BC9nxAwHvoUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\GamesChampionship\\GamesChampionship.Infrastructure\\GamesChampionship.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
